@@ -1,7 +1,5 @@
-fundler-theme
-=============
-
 Fundler: Free Crowdfunding WordPress Theme
+=============
 
 Free Premium Crowdfunding WordPress Theme! Start your own Kickstarter or IndieGogo today (and with ease!)
 
